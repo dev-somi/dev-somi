@@ -4,7 +4,7 @@
 ---
 
 ### 🙋‍♀️ About Me
-* 🔐 Interested in **AI-powered security tools** and mobile app development
+* 🔐 Interested in AI, web and mobile app development
 * 🤖 Love integrating **LLMs and ML models** into practical products
 * 🎓 Computer Science student — currently working on my capstone project
 * 🌏 Building things that connect people and make life (or code) safer
