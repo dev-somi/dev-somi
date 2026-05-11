@@ -39,7 +39,6 @@
 **AI 기반 코드 보안 취약점 점검 플랫폼** (`Python`, `FastAPI`, `React`, `Semgrep`, `Gemini AI`)
 - 코드 파일 업로드 또는 GitHub URL 입력만으로 자동 보안 스캔 수행
 - Semgrep 룰 기반 탐지 결과에 Gemini AI를 연동하여 대화형으로 취약점 해결 방안 제시
-- 👉 [팀 레포지토리 바로가기]((https://github.com/2026-Capstone-Design-VibeCheck/2026-Capstone-Design-SecureVibe))
 
 ### 🔬 acne_bye
 **여드름 분류 & 스킨케어 추천 Android 앱** (`Kotlin`, `Android`, `EfficientNet`, `On-device ML`)
