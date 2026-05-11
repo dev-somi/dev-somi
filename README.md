@@ -35,19 +35,16 @@
 
 ### 🚀 Featured Projects
 
-#### 🛡️ SecureVibe (2026 Capstone Design)
-> **Python · FastAPI · React · Semgrep · Google Gemini AI · Oracle DB**
-AI 기반 코드 보안 취약점 점검 플랫폼. 코드 파일 업로드 또는 GitHub URL 입력만으로 자동 보안 스캔을 수행하고, LLM 챗봇을 통해 취약점 해결 방안을 제시합니다.
-* 🔍 Semgrep 보안 룰 기반 정밀 취약점 탐지
-* 🤖 Google Gemini AI 연동 — 탐지 결과 기반 대화형 보안 분석
-* 🌐 GitHub 레포지토리 URL 입력만으로 프로젝트 단위 스캔 지원
-* 🗄️ Oracle DB 사용자 관리 및 스캔 이력 저장
-* 🎨 Miro 스타일 인터랙티브 대시보드 UI
-* [👉 팀 레포지토리 바로가기]([https://github.com/your-repo-link](https://github.com/2026-Capstone-Design-VibeCheck/2026-Capstone-Design-SecureVibe))
+### 🛡️ SecureVibe (2026 Capstone Design)
+**AI 기반 코드 보안 취약점 점검 플랫폼** (`Python`, `FastAPI`, `React`, `Semgrep`, `Gemini AI`)
+- 코드 파일 업로드 또는 GitHub URL 입력만으로 자동 보안 스캔 수행
+- Semgrep 룰 기반 탐지 결과에 Gemini AI를 연동하여 대화형으로 취약점 해결 방안 제시
+- 👉 [팀 레포지토리 바로가기](#)
 
-#### 🔬 ance_bye
-> **Kotlin · Android · EfficientNet · On-device ML**
-여드름 유형을 분류하고 한국 스킨케어 제품을 추천하는 Android 앱. EfficientNet 모델을 파인튜닝하여 온디바이스 추론을 구현했습니다.
+### 🔬 acne_bye
+**여드름 분류 & 스킨케어 추천 Android 앱** (`Kotlin`, `Android`, `EfficientNet`, `On-device ML`)
+- AAD 가이드라인 기반 여드름 5종 분류 및 한국 의약품 API 연동 맞춤 스킨케어 추천
+- **💡 Key Insight:** 온디바이스 모델의 실전 정확도 저하(90% → 60%)라는 한계에 부딪혔을 때, "모델 정확도"가 아닌 "정확한 치료법 제시"로 목표를 재정의했습니다. 모델에 전적으로 의존하는 대신 유저가 직접 사진과 설명을 보고 선택할 수 있는 UI로 설계를 전환하여, **사용성 4.6/5.0점** 및 **학내 창의작품경진대회 본선 진출**을 달성했습니다.
 
 #### 📖 ocr_eng
 > **Flutter · Dart · Google ML Kit**
