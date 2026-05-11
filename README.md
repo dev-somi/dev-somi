@@ -43,7 +43,7 @@ AI 기반 코드 보안 취약점 점검 플랫폼. 코드 파일 업로드 또�
 * 🌐 GitHub 레포지토리 URL 입력만으로 프로젝트 단위 스캔 지원
 * 🗄️ Oracle DB 사용자 관리 및 스캔 이력 저장
 * 🎨 Miro 스타일 인터랙티브 대시보드 UI
-* [👉 팀 레포지토리 바로가기](https://github.com/your-repo-link)
+* [👉 팀 레포지토리 바로가기]([https://github.com/your-repo-link](https://github.com/2026-Capstone-Design-VibeCheck/2026-Capstone-Design-SecureVibe))
 
 #### 🔬 ance_bye
 > **Kotlin · Android · EfficientNet · On-device ML**
