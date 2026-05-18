@@ -61,13 +61,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![dev-somi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-somi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-somi&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 📫 Contact
-[![GitHub](https://img.shields.io/badge/GitHub-dev--somi-181717?style=flat-square&logo=github)](https://github.com/dev-somi)
-
 <p align="center">Thanks for visiting! ✨</p>
